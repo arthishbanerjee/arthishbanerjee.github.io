@@ -779,6 +779,10 @@ video {
   background-size: 0% 2px;
 }
 
+.bg-\[length\:75\%_2px\] {
+  background-size: 75% 2px;
+}
+
 .bg-bottom {
   background-position: bottom;
 }
@@ -1048,6 +1052,16 @@ video {
   .sm\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .sm\:text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 }
 
