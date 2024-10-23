@@ -18,4 +18,10 @@ social: true # includes social icons at the bottom of the page
 
 ## Education
 
+![](/assets/img/1.jpg){: .align-left height="50px" width="50px"}
+Something about the first picture.
+{:style="clear: left"}
 
+![](/assets/img/2.jpg){: .align-left height="50px" width="50px"}
+Something about the second picture.
+{:style="clear: left"}
