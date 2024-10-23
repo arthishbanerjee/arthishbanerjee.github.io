@@ -19,7 +19,9 @@ social: true # includes social icons at the bottom of the page
 ## Education
 
 ![](/assets/img/1.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
-Something about the first picture.
+
+### Something about the first picture.
+
 {:style="clear: left"}
 
 ![](/assets/img/2.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
