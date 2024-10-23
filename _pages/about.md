@@ -9,20 +9,22 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Calcutta, WB, India</p>
+    <p>Calcutta</p>
+    <p>WB, India</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 ## Education
 
-![](/assets/img/1.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
+![](/assets/img/iift.png){: .align-left height="48px" width="70px" style="margin-right: 20px; margin-left: 10px; padding-top: 11px; padding-bottom: 11px"}
 
-### Something about the first picture.
+**Indian Institute of Foreign Trade** \
+MA, Economics (specialisation in Trade and Finance), 2022-2024
 
-{:style="clear: left"}
+{:style="clear: left; margin-top: 20px"}
 
 ![](/assets/img/2.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
 Something about the second picture.
