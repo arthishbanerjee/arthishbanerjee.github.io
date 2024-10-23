@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 ## Education
 
-![](/assets/img/iift.png){: height="48px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1.25rem; margin-bottom: 1.25rem"}
+![](/assets/img/iift.png){: height="48px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-bottom: 1.35rem"}
 
 <b>Indian Institute of Foreign Trade</b><br>
 MA, Economics (specialisation in Trade and Finance), 2022-2024
