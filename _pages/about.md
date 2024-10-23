@@ -24,6 +24,12 @@ social: false # includes social icons at the bottom of the page
 <p><b>Indian Institute of Foreign Trade</b><br>
 MA, Economics (specialisation in Trade and Finance), 2022-2024</p>{: height="85px"}
 
-![](/assets/img/2.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
-Something about the second picture.
-{:style="clear: left"}
+![](/assets/img/unical.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem"}
+
+<p><b>University of Calcutta</b><br>
+BSc, Economics (Hons.), 2018-2021</p>{: height="85px"}
+
+![](/assets/img/iitm.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem"}
+
+<p><b>Indian Institute of Technology, Madras</b><br>
+BSc, Data Science and Programming, 2020-</p>{: height="85px"}
