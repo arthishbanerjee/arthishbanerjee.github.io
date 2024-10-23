@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Calcutta</p>
+    <p>Calcutta</p><br>
     <p>WB, India</p>
 
 news: false # includes a list of news items
@@ -20,8 +20,8 @@ social: false # includes social icons at the bottom of the page
 ## Education
 
 ![](/assets/img/iift.png){: .align-left height="48px" width="70px" style="margin-right: 20px; margin-left: 10px; margin-top: 11px; margin-bottom: 11px"}
-<p><b>Indian Institute of Foreign Trade</b><br>
-MA, Economics (specialisation in Trade and Finance), 2022-2024<p>
+<b>Indian Institute of Foreign Trade</b><br>
+MA, Economics (specialisation in Trade and Finance), 2022-2024
 {:style="clear: left; margin-top: 20px"}
 
 ![](/assets/img/2.jpg){: .align-left height="70px" width="70px" style="margin-right: 20px; margin-left: 10px"}
