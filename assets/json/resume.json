@@ -2,7 +2,7 @@
   "basics": {
     "name": "Arthish Banerjee",
     "label": "",
-    "image": "",
+    "image": "prof_pic.jpg",
     "email": "arthishbanerjee@gmail.com",
     "phone": "",
     "url": "https://arthishbanerjee.github.io",
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Indian Institute of Management, Calcutta",
-      "position": "Research Assistant (with Prof. Somdeep Chatterjee)",
-      "url": "",
+      "name": "Indian Institute of Management, Calcutta (with Prof. Somdeep Chatterjee)",
+      "position": "Research Assistant",
+      "url": "https://www.iimcal.ac.in/",
       "startDate": "2025-02-15",
       "endDate": "",
-      "summary": "Gained experience in data extraction and analysis methods."
+      "summary": "Gained experience in data extraction (from open and proprietary sources) and analysis methods in causal inference, alongside providing assistance in the conduction of experiments and handling and analysis of resultant data."
     },
     {
       "name": "Ministry of Commerce and Industry, Government of India",
@@ -70,7 +70,7 @@
       "startDate": "2021-01-01",
       "endDate": "",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Data Structures and Algorithms", "System Commands", "Machine Learning Theory"]
     }
   ]
 }

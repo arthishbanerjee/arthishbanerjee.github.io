@@ -28,8 +28,8 @@ MA, Economics (specialisation in Trade and Finance), 2022-2024
 
 ![](/assets/img/unical.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
 
-<b>University of Calcutta</b><br>
-BSc, Economics (Hons.), 2018-2021
+<p><b>University of Calcutta</b><br>
+BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.5rem;"}
 
 {: style="clear: left"}
 
