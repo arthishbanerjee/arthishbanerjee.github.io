@@ -5,7 +5,7 @@
     "image": "",
     "email": "arthishbanerjee@gmail.com",
     "phone": "",
-    "url": "https://arthish.com",
+    "url": "https://arthishbanerjee.github.io",
     "summary": "",
     "location": {
       "address": "",
@@ -23,6 +23,14 @@
     ]
   },
   "work": [
+    {
+      "name": "Indian Institute of Management, Calcutta",
+      "position": "Research Assistant (with Prof. Somdeep Chatterjee)",
+      "url": "",
+      "startDate": "2025-02-15",
+      "endDate": "",
+      "summary": "Gained experience in data extraction and analysis methods."
+    },
     {
       "name": "Ministry of Commerce and Industry, Government of India",
       "position": "Summer Intern, Gem and Jewellery Division",
