@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -12,10 +12,12 @@ profile:
     <p>Calcutta</p><br>
     <p>West Bengal, India</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+Hi! I am Arthish. I am an MA in Economics, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian Institute of Management (IIM), Calcutta with Prof. Somdeep Chatterjee, I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
 
 ## Education
 
@@ -29,7 +31,7 @@ MA, Economics (specialisation in Trade and Finance), 2022-2024
 ![](/assets/img/unical.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
 
 <p><b>University of Calcutta</b><br>
-BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.5rem;"}
+BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.6rem;"}
 
 {: style="clear: left"}
 
