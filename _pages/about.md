@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am Arthish. I am an MA in Economics, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian Institute of Management (IIM), Calcutta with Prof. Somdeep Chatterjee, I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
+I am an MA in Economics from the Indian Institute of Foreign Trade (IIFT), currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian Institute of Management (IIM), Calcutta (with Dr. Somdeep Chatterjee), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
 
 ## Education
 
@@ -31,13 +31,13 @@ MA, Economics (specialisation in Trade and Finance), 2022-2024
 ![](/assets/img/unical.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
 
 <p><b>University of Calcutta</b><br>
-BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.6rem;"}
+BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.8rem;"}
 
 {: style="clear: left"}
 
 ![](/assets/img/iitm.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
 
-<b>Indian Institute of Technology, Madras</b><br>
-BSc, Data Science and Programming, 2020-
+<p><b>Indian Institute of Technology, Madras</b><br>
+BSc, Data Science and Programming, 2020-present</p>{: style="margin-top: 0.5rem;"}
 
 {: style="clear: left"}

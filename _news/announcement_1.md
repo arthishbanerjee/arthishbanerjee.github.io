@@ -3,6 +3,7 @@ layout: post
 date: 2024-10-16 10:19:00+0530
 inline: false
 related_posts: false
+title: \`The Economics of Greenwashing` co-authored with Oindrila Dey has been accepted at [EIITF](https://eiitf.iift.ac.in/eiitf9/index.asp) 2024!
 ---
 
 `The Economics of Greenwashing` co-authored with Oindrila Dey has been accepted at [EIITF](https://eiitf.iift.ac.in/eiitf9/index.asp) 2024!
