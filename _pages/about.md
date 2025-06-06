@@ -21,23 +21,28 @@ I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/index.php"
 
 ## Education
 
-![](/assets/img/iift.png){: height="48px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 11px; margin-bottom: 1.11pxrem"}
+<h2>Education</h2>
 
-<b>Indian Institute of Foreign Trade</b><br>
-MA, Economics (specialisation in Trade and Finance), 2022-2024
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <img src="/assets/img/iift.png" height="48px" width="70px" style="margin-right: 2rem;">
+  <div>
+    <b>Indian Institute of Foreign Trade</b><br>
+    MA, Economics (specialisation in Trade and Finance), 2022–2024
+  </div>
+</div>
 
-{: style="clear: left"}
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <img src="/assets/img/unical.png" height="70px" width="70px" style="margin-right: 2rem;">
+  <div>
+    <b>University of Calcutta</b><br>
+    BSc, Economics (Hons.), 2018–2021
+  </div>
+</div>
 
-![](/assets/img/unical.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
-
-<p><b>University of Calcutta</b><br>
-BSc, Economics (Hons.), 2018-2021</p>{: style="margin-top: 0.8rem;"}
-
-{: style="clear: left"}
-
-![](/assets/img/iitm.png){: height="70px" width="70px" style="float: left; margin-right: 2rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem"}
-
-<p><b>Indian Institute of Technology, Madras</b><br>
-BSc, Data Science and Programming, 2020-present</p>{: style="margin-top: 0.5rem;"}
-
-{: style="clear: left"}
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <img src="/assets/img/iitm.png" height="70px" width="70px" style="margin-right: 2rem;">
+  <div>
+    <b>Indian Institute of Technology, Madras</b><br>
+    BSc, Data Science and Programming, 2020–present
+  </div>
+</div>
