@@ -59,7 +59,7 @@ social: false # includes social icons at the bottom of the page
   <img src="/assets/img/unical.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>University of Calcutta</b><br>
-    BSc, Economics (Hons.), 2018 – 2021
+    BSc, Economics (Honours), 2018 – 2021
   </div>
 </div>
 
