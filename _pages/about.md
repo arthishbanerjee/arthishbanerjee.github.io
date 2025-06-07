@@ -28,13 +28,13 @@ social: false # includes social icons at the bottom of the page
   }
 </style>
 
-<div style="text-align: justify; margin-right: 2rem; padding-right: 2rem;">
+<div style="text-align: justify; margin-right: 2rem;">
   <p>
     I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
   </p>
 </div>
 
-<h2 style="margin-bottom:1.5rem;">Research</h2>
+<h2 style="margin-bottom:1.5rem;">experience</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iimcalbrown.png" class="logo-light" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo">
@@ -45,7 +45,7 @@ social: false # includes social icons at the bottom of the page
   </div>
 </div>
 
-<h2 style="margin-bottom:1.5rem;">Education</h2>
+<h2 style="margin-bottom:1.5rem;">education</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iift.png" height="48px" width="70px" style="margin-right: 2rem;">
@@ -58,7 +58,7 @@ social: false # includes social icons at the bottom of the page
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/unical.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
-    <b>University of Calcutta</b><br>
+    <b>University of Calcutta</b> <i>@ Scottish Church College</i><br>
     BSc, Economics (Honours), 2018 – 2021
   </div>
 </div>

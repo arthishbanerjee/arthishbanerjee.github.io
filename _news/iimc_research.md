@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined `IIM Calcutta` as a `Research Assistant` with `Prof. Somdeep Chatterjee`!
+I have joined `IIM Calcutta` as a `Research Assistant` with `Prof. Somdeep Chatterjee` starting today!
