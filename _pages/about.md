@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
   }
 </style>
 
-<div style="text-align: justify; margin-right: 2rem;">
+<div style="text-align: justify;">
   <p>
     I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
   </p>
