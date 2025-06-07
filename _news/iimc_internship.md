@@ -5,3 +5,7 @@ inline: true
 related_posts: false
 title: I started work at the <code>Indian Institute of Management Calcutta</code> as a <code>Research Assistant</code> for <code>Prof. Somdeep Chatterjee</code>!
 ---
+
+I started work at the `Indian Institute of Management Calcutta` as a `Research Assistant` for `Prof. Somdeep Chatterjee`!
+
+---
