@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2024-10-16 10:19:00+0530
-inline: false
+inline: true
 related_posts: false
 title: <code>The Economics of Greenwashing</code> co-authored with <code>Dr. Oindrila Dey</code> has been accepted at the <code>9th EIITF, 2024</code>!
 ---
 
-'The Economics of Greenwashing' co-authored with Oindrila Dey has been accepted at [`EIITF`](https://eiitf.iift.ac.in/eiitf9/index.asp) 2024!
+'The Economics of Greenwashing' co-authored with Dr. Oindrila Dey has been accepted at [`EIITF`](https://eiitf.iift.ac.in/eiitf9/index.asp) 2024!
 
 ---
 
