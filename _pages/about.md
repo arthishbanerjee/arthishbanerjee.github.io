@@ -18,21 +18,17 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <style>
-  .dark-mode-img {
+  img.logo-dark { display: none; }
+
+  html[data-theme='dark'] img.logo-light {
     display: none;
   }
-
-  @media (prefers-color-scheme: dark) {
-    .light-mode-img {
-      display: none;
-    }
-    .dark-mode-img {
-      display: inline;
-    }
+  html[data-theme='dark'] img.logo-dark {
+    display: inline;
   }
 </style>
 
-<div style="text-align: justify; margin-right: 1rem;">
+<div style="text-align: justify; margin-right: 2rem;">
   <p>
     I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/index.php">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
   </p>
@@ -40,9 +36,9 @@ social: false # includes social icons at the bottom of the page
 
 ## Research
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/img/iimcalbrown.png" class="light-mode-img" height="48px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo" loading="lazy">
-  <img src="/assets/img/iimcalwhite.png" class="dark-mode-img" height="48px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo white" loading="lazy">
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
+  <img src="/assets/img/iimcalbrown.png" class="logo-light" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo" loading="lazy">
+  <img src="/assets/img/iimcalwhite.png" class="logo-dark" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo white" loading="lazy">
   <div>
     <b>Indian Institute of Management Calcutta</b><br>
     Research Assistant, Feb 2025 - present
@@ -51,7 +47,7 @@ social: false # includes social icons at the bottom of the page
 
 ## Education
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iift.png" height="48px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>Indian Institute of Foreign Trade</b><br>
@@ -59,7 +55,7 @@ social: false # includes social icons at the bottom of the page
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/unical.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>University of Calcutta</b><br>
@@ -67,7 +63,7 @@ social: false # includes social icons at the bottom of the page
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iitm.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>Indian Institute of Technology, Madras</b><br>
