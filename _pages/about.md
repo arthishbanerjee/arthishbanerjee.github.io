@@ -17,32 +17,60 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an MA in Economics from the <a href="https://www.iift.ac.in/">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Dr. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
+<style>
+  .dark-mode-img {
+    display: none;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .light-mode-img {
+      display: none;
+    }
+    .dark-mode-img {
+      display: inline;
+    }
+  }
+</style>
+
+<div style="text-align: justify; margin-right: 1rem;">
+  <p>
+    I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/index.php">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
+  </p>
+</div>
+
+## Research
+
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/assets/img/iimcalbrown.png" class="light-mode-img" height="48px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo" loading="lazy">
+  <img src="/assets/img/iimcalwhite.png" class="dark-mode-img" height="48px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo white" loading="lazy">
+  <div>
+    <b>Indian Institute of Management Calcutta</b><br>
+    Research Assistant, Feb 2025 - present
+  </div>
+</div>
 
 ## Education
 
-<h2>Education</h2>
-
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <img src="/assets/img/iift.png" height="48px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>Indian Institute of Foreign Trade</b><br>
-    MA, Economics (specialisation in Trade and Finance), 2022–2024
+    MA, Economics (specialisation in Trade and Finance), 2022 – 2024
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <img src="/assets/img/unical.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>University of Calcutta</b><br>
-    BSc, Economics (Hons.), 2018–2021
+    BSc, Economics (Hons.), 2018 – 2021
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
   <img src="/assets/img/iitm.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>Indian Institute of Technology, Madras</b><br>
-    BSc, Data Science and Programming, 2020–present
+    BSc, Data Science and Programming, 2020 – present
   </div>
 </div>
