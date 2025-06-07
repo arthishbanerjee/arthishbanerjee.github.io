@@ -37,8 +37,8 @@ social: false # includes social icons at the bottom of the page
 ## Research
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-  <img src="/assets/img/iimcalbrown.png" class="logo-light" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo" loading="lazy">
-  <img src="/assets/img/iimcalwhite.png" class="logo-dark" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo white" loading="lazy">
+  <img src="/assets/img/iimcalbrown.png" class="logo-light" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo">
+  <img src="/assets/img/iimcalwhite.png" class="logo-dark" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo white">
   <div>
     <b>Indian Institute of Management Calcutta</b><br>
     Research Assistant, Feb 2025 - present
