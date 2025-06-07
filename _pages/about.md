@@ -28,13 +28,13 @@ social: false # includes social icons at the bottom of the page
   }
 </style>
 
-<div style="text-align: justify; margin-right: 2rem;">
+<div style="text-align: justify; margin-right: 2rem; padding-right: 2rem;">
   <p>
-    I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/index.php">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
+    I am an MA in Economics from the <a href="https://www.iift.ac.in/iift/">Indian Institute of Foreign Trade (IIFT)</a>, currently looking for PhD opportunities in Applied Microeconomics. Currently working as a research assistant at the Indian <a href="https://www.iimcal.ac.in/">Institute of Management (IIM) Calcutta</a> (with <a href="https://sites.google.com/site/somdeepuh/">Prof. Somdeep Chatterjee</a>), I am keenly interested in exploring further opportunities to expand my exposure to research in this field.
   </p>
 </div>
 
-## Research
+<h2 style="margin-bottom:1.5rem;">Research</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iimcalbrown.png" class="logo-light" height="70px" width="70px" style="margin-right: 2rem;" alt="IIM Calcutta logo">
@@ -45,7 +45,7 @@ social: false # includes social icons at the bottom of the page
   </div>
 </div>
 
-## Education
+<h2 style="margin-bottom:1.5rem;">Education</h2>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
   <img src="/assets/img/iift.png" height="48px" width="70px" style="margin-right: 2rem;">
