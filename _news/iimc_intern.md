@@ -6,6 +6,4 @@ related_posts: false
 title: IIMC RAship
 ---
 
----
-
 I started work at the `IIM Calcutta` as a `Research Assistant` for `Prof. Somdeep Chatterjee`!
