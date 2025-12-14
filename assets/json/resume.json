@@ -29,7 +29,8 @@
       "url": "https://www.iimcal.ac.in/",
       "startDate": "2025-02-15",
       "endDate": "",
-      "summary": "Gained experience in data extraction (from open and proprietary sources) and analysis methods in causal inference, alongside providing assistance in the conduction of experiments and handling and analysis of resultant data."
+      "summary": "Gained experience in data extraction (from open and proprietary sources) and analysis methods in causal inference, alongside providing assistance in the conduction of experiments and handling and analysis of resultant data.",
+      "highlights": ["Volunteering at ABLEAP"]
     },
     {
       "name": "Ministry of Commerce and Industry, Government of India",
@@ -49,7 +50,7 @@
       "studyType": "MA, Master of Arts",
       "startDate": "2022-09-13",
       "endDate": "2024-08-31",
-      "courses": ["Industrial Organisation and Game Theory", "Advanced Macroeconomics", "Applied Econometrics"]
+      "courses": ["Mathematics for Economics", "Industrial Organisation and Game Theory", "Advanced Macroeconomics", "Applied Econometrics"]
     },
     {
       "institution": "University of Calcutta",
@@ -57,17 +58,17 @@
       "url": "https://www.caluniv.ac.in/",
       "area": "Economics",
       "studyType": "BSc, Bachelor of Science (Honours)",
-      "startDate": "2021-01-01",
-      "endDate": "2018-01-01",
-      "courses": ["Microeconomics", "Macroeconomics", "Basic Econometrics"]
+      "startDate": "2021-08-31",
+      "endDate": "2018-07-06",
+      "courses": ["Microeconomics", "Macroeconomics", "Econometrics", "Statistics", "Mathematics"]
     },
     {
       "institution": "Indian Institute of Technology, Madras",
       "location": "Chennai, India",
       "url": "https://study.iitm.ac.in/ds/",
       "area": "Data Science and Programming",
-      "studyType": "BSc, Bachelor of Science",
-      "startDate": "2021-01-01",
+      "studyType": "Diplomas",
+      "startDate": "2021-09-01",
       "endDate": "",
       "score": "",
       "courses": ["Data Structures and Algorithms", "System Commands", "Machine Learning Theory"]

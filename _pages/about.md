@@ -67,6 +67,6 @@ social: false # includes social icons at the bottom of the page
   <img src="/assets/img/iitm.png" height="70px" width="70px" style="margin-right: 2rem;">
   <div>
     <b>Indian Institute of Technology, Madras</b><br>
-    BSc, Data Science and Programming, 2020 – present
+    Diploma, Data Science and Programming, 2021 – present
   </div>
 </div>
